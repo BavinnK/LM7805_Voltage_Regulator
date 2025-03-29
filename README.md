@@ -15,6 +15,9 @@ This repository contains a 5V voltage regulator circuit using the **LM7805** IC,
 - **LED Indicator**
 - **Multimeter for measurement**
 
+## Diagram
+![Incredible Fulffy (1)](https://github.com/user-attachments/assets/37e1891f-9655-4342-8bd0-d657a4f391e7)
+
 
 ## How to Use
 1. Connect a ** more than 7.5 volts  power source** to the input.
